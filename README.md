@@ -2,14 +2,20 @@
 
 ###
 
+<p align="left">📚 Currently studying at Rayongwittayakom in Thailand. At the moment, I'm focusing on Competitive Programming.<br>🎯 I'm aiming for 🥇/🥈 medal in TOI22 (Thailand Olympiad in Informatics)</p>
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Winzzwz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Winzzwz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Winzzwz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="135" alt="languages graph"  />
 </div>
 
 ###
 
-<img align="right" height="150" src="https://media.tenor.com/lYvER8IlNGkAAAAM/shiba-shiba-inu.gif"  />
+<br clear="both">
+
+<img align="left" height="150" src="https://media.tenor.com/lYvER8IlNGkAAAAM/shiba-shiba-inu.gif"  />
 
 ###
 
